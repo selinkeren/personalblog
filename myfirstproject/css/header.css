@@ -1,0 +1,34 @@
+header{
+  background-color:rgb(158, 223, 144) ;
+  text-align:left;
+  font-style:initial;
+  font-size: 15px;
+  padding:5px;
+}
+ul.navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:rgb(109, 173, 226);
+ 
+}
+.navbar > li{
+  float: left;
+}
+.navbar > li a{
+  display: block;
+  color: rgb(219, 32, 179);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+div.logo{
+  width:20%;
+  
+}
+ 
+.navbar > li a:hover{
+  background-color:rgb(170, 100, 235);
+}
